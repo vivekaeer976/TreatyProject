@@ -8,4 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'treaty-project';
   name='Treaty pro in angular';
+  name1="----Hi-----";
 }
